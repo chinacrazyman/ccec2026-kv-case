@@ -179,9 +179,7 @@ Run → Edit Configurations → VM options
 - 学生实验报告模板
 - 评价量规表
 - 课堂 PPT
-- 代码运行演示视频
-- 实验截图
-- 决赛现场汇报材料
+
 
 ------
 
